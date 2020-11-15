@@ -1,0 +1,17 @@
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.csprojAssemblyReference.cache
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.Card.resources
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.csproj.GenerateResource.cache
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.AssemblyInfoInputs.cache
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.AssemblyInfo.cs
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.exe
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.deps.json
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.runtimeconfig.json
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.runtimeconfig.dev.json
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.dll
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\bin\Debug\netcoreapp3.1\RandomCards.pdb
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.dll
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.pdb
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.genruntimeconfig.cache
+D:\TAI_LIEU_THUC_HANH\LTTQ\BTQT2-reso\BTQT2\WindowsFormsApp1\obj\Debug\netcoreapp3.1\RandomCards.CardControl.resources
